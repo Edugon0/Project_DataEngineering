@@ -2,7 +2,7 @@
 
 # Sistema de Análise de Vendas para Concessionária de Carros
 
-Este projeto é um sistema de engenharia de dados criado para uma empresa fictícia de uma concessionária de carros. O sistema fornecia análises detalhadas de vendas por concessionária Chamada NovaDrivers, vendas por veículo, vendas por vendedor e uma análise temporal das vendas.
+Este projeto é um sistema de engenharia de dados criado para uma empresa fictícia de uma concessionária de carros. O sistema fornecia análises detalhadas de vendas por concessionária Chamada NovaDrivers um projeto montado dentro de um bootcamp de engenheiro de dados, vendas por veículo, vendas por vendedor e uma análise temporal das vendas.
 
 ## Descrição
 
