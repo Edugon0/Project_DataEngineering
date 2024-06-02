@@ -4,6 +4,12 @@
 
 Este projeto é um sistema de engenharia de dados criado para uma empresa fictícia de uma concessionária de carros. O sistema fornecia análises detalhadas de vendas por concessionária Chamada NovaDrivers um projeto montado dentro de um bootcamp de engenheiro de dados, vendas por veículo, vendas por vendedor e uma análise temporal das vendas.
 
+## Funcionalidades
+- **Vendas por Concessionária: Análise das vendas segmentadas por cada concessionária.
+- **Vendas por Veículo: Análise das vendas segmentadas por cada modelo de veículo.
+- **Vendas por Vendedor: Análise das vendas realizadas por cada vendedor.
+- **Análise Temporal: Análise das vendas ao longo do tempo, permitindo identificar tendências sazonais e padrões de vendas.
+
 ## Descrição
 
 O objetivo deste projeto foi demonstrar a criação de um pipeline de dados completo, desde a extração dos dados até a análise final, utilizando diversas ferramentas e tecnologias de engenharia de dados.
@@ -22,6 +28,7 @@ O objetivo deste projeto foi demonstrar a criação de um pipeline de dados comp
 - **Google Looker:** Ferramenta de BI utilizada para criar dashboards interativos.
 
 ## Método de LT (Load Transform)
+
 
 Utilizamos o método de LT (Load Transform) para carregar os dados brutos diretamente no data warehouse (Snowflake) e, em seguida, realizar as transformações necessárias utilizando DBT. Esse método nos permite manter a integridade dos dados brutos enquanto aplicamos transformações para análise e relatórios.
 
