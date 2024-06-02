@@ -65,9 +65,6 @@ Utilizamos o método de ELT (Extract, Load, Transform) para carregar os dados br
 ## Estrutura do Projeto no DBT(data build tool)
 
 ```plaintext
-├── data
-│   ├── raw_data.sql
-│   ├── transformed_data.sql
 ├── airflow
 │   ├── dags
 │   │   ├── etl_pipeline.py
