@@ -57,10 +57,10 @@ Os dados transformados seriam visualizados e analisados através de um dashboard
 - Gráfico de linha mostrando as tendências de vendas ao longo do tempo.
 - Análise de sazonalidade e picos de vendas em determinados períodos.
 
-## Método de LT (Load Transform)
+## Método de ELT (Extract, Load, Transform)
 
 
-Utilizamos o método de LT (Load Transform) para carregar os dados brutos diretamente no data warehouse (Snowflake) e, em seguida, realizar as transformações necessárias utilizando DBT. Esse método nos permite manter a integridade dos dados brutos enquanto aplicamos transformações para análise e relatórios.
+Utilizamos o método de ELT (Extract, Load, Transform) para carregar os dados brutos diretamente no data warehouse (Snowflake) e, em seguida, realizar as transformações necessárias utilizando DBT. Esse método nos permite manter a integridade dos dados brutos enquanto aplicamos transformações para análise e relatórios.
 
 ## Estrutura do Projeto no DBT(data build tool)
 
